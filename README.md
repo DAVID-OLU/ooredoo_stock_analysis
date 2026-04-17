@@ -14,16 +14,22 @@ Download Dashboard and files here:
 ### Data Preparation
 
 Cleaned historical stock price data
+
 Handled missing values and inconsistent trading days
+
 Converted date field into structured time format (Year, Quarter, Month)
+
 Standardized numerical fields (Open, High, Low, Close, Volume)
 
 Data Modeling
 Structured the dataset for analysis by:
 
 Time (Daily / Monthly / Quarterly)
+
 Price movement (Open, Close, High, Low)
+
 Volume traded
+
 Returns (Daily/Period performance)
 
 ## 📊 Visualization (Power BI)
