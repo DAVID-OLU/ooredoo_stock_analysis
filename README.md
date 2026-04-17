@@ -37,9 +37,13 @@ Returns (Daily/Period performance)
 📌 Page 1: Overview Dashboard
 
 KPI cards (Latest price, average price, total volume traded)
+
 Overall price trend (Close price over time)
+
 Volume trend visualization
+
 Stock price with Moving Averages
+
 Interactive date slicer
 
 📌 Page 2: Price Analysis
