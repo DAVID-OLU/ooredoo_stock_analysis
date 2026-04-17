@@ -57,12 +57,19 @@ The stock generally shows a stable long-term movement with moderate growth/decli
 
 ## 💡 Business Implications
 Helps investors identify entry and exit timing based on price trends
+
 Supports risk assessment through volatility analysis
+
 Volume spikes can signal institutional interest or market news impact
+
 Assists analysts in understanding telecom sector stability in Qatar
+
 
 ## 🛠 Tools & Technologies
 Power BI → dashboard & data visualization
+
 Python (Pandas, NumPy) → data cleaning and transformation
+
 Excel/CSV → raw stock data source
+
 Data Modeling → time-series structuring and financial metrics
